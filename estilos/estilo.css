@@ -804,7 +804,7 @@ footer li a {
          margin-top: 120px;
     }
     
-    section.sessao6 .areainfs .lista {
+    section#sessao6 .areainfs .lista {
         margin-bottom: 30px;
         width: 200px;
         margin-left: 65px;
