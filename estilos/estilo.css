@@ -8,7 +8,7 @@ body {
 .bc {
     display: flex;
     justify-content: center;
-    background-image: url(/imgs/hero-image.png);
+    background-image: url(../imgs/hero-image.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     font-family: 'Source Sans Pro', sans-serif;
@@ -143,7 +143,7 @@ section#fotos1 {
 
 .foto1 {
     margin-right: 5px;
-    background-image: url(/imgs/rectangle-41-copy-6.png);
+    background-image: url(../imgs/rectangle-41-copy-6.png);
     background-repeat: no-repeat;
     height: 217px;
     width: 217px;
@@ -152,7 +152,7 @@ section#fotos1 {
 
 .foto2 {
     margin-right: 5px;
-    background-image: url(/imgs/rectangle-41-copy-4.png);
+    background-image: url(../imgs/rectangle-41-copy-4.png);
     background-repeat: no-repeat;
     height: 217px;
     width: 217px;
@@ -162,7 +162,7 @@ section#fotos1 {
 
 .foto3 {
     margin-right: 5px;
-    background-image: url(/imgs/rectangle-41-copy-3.png);
+    background-image: url(../imgs/rectangle-41-copy-3.png);
     background-repeat: no-repeat;
     height: 217px;
     width: 217px;
@@ -172,7 +172,7 @@ section#fotos1 {
 
 .foto4 {
     margin-right: 5px;
-    background-image: url(/imgs/rectangle-41-copy-2.png);
+    background-image: url(../imgs/rectangle-41-copy-2.png);
     background-repeat: no-repeat;
     height: 217px;
     width: 217px;
@@ -182,7 +182,7 @@ section#fotos1 {
 
 .foto5 {
     margin-right: 5px;
-    background-image: url(/imgs/rectangle-41-copy.png);
+    background-image: url(../imgs/rectangle-41-copy.png);
     background-repeat: no-repeat;
     height: 217px;
     width: 217px;
@@ -190,7 +190,7 @@ section#fotos1 {
 }
 
 .foto6 {
-    background-image: url(/imgs/rectangle-41.png);
+    background-image: url(../imgs/rectangle-41.png);
     background-repeat: no-repeat;
     height: 217px;
     width: 217px;
@@ -204,7 +204,7 @@ section#fotos2 {
 
 .foto7 {
     margin-right: 5px;
-    background-image: url(/imgs/rectangle-41-copy-seis.png);
+    background-image: url(../imgs/rectangle-41-copy-seis.png);
     background-repeat: no-repeat;
     height: 217px;
     width: 217px;
@@ -214,7 +214,7 @@ section#fotos2 {
 
 .foto8 {
     margin-right: 5px;
-    background-image: url(/imgs/rectangle-41-copy-7.png);
+    background-image: url(../imgs/rectangle-41-copy-7.png);
     background-repeat: no-repeat;
     height: 217px;
     width: 217px;
@@ -224,7 +224,7 @@ section#fotos2 {
 
 .foto9 {
     margin-right: 5px;
-    background-image: url(/imgs/rectangle-41-copy-8.png);
+    background-image: url(../imgs/rectangle-41-copy-8.png);
     background-repeat: no-repeat;
     height: 217px;
     width: 217px;
@@ -234,7 +234,7 @@ section#fotos2 {
 
 .foto10 {
     margin-right: 5px;
-    background-image: url(/imgs/rectangle-41-copy-9.png);
+    background-image: url(../imgs/rectangle-41-copy-9.png);
     background-repeat: no-repeat;
     height: 217px;
     width: 217px;
@@ -244,7 +244,7 @@ section#fotos2 {
 
 .foto11 {
     margin-right: 5px;
-    background-image: url(/imgs/rectangle-41-copy-10.png);
+    background-image: url(../imgs/rectangle-41-copy-10.png);
     background-repeat: no-repeat;
     height: 217px;
     width: 217px;
@@ -254,7 +254,7 @@ section#fotos2 {
 
 .foto12 {
     margin-right: 5px;
-    background-image: url(/imgs/rectangle-41-copy-11.png);
+    background-image: url(../imgs/rectangle-41-copy-11.png);
     background-repeat: no-repeat;
     height: 217px;
     width: 217px;
@@ -401,7 +401,7 @@ section#sessao4 .card {
 
 section#sessao4 .card .angela h1 {
     margin: 0;
-    background-image: url(/imgs/autumn-goodman-242825.png);
+    background-image: url(../imgs/autumn-goodman-242825.png);
     background-repeat: no-repeat;
     width: 794px;
     height: 386px;
@@ -481,7 +481,7 @@ section#sessao4 .card .tex .plus {
 }
 
 .icons .icon3 h1 {
-    background-image: url(/imgs/icon3.png);
+    background-image: url(../imgs/icon3.png);
     background-repeat: no-repeat;
     height: 71px;
     width: 71px;
