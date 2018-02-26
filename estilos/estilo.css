@@ -136,6 +136,7 @@ section#init .chamada button a {
     text-decoration: none;
    
 }
+/* sessao fotos */
 
 section#fotos1 {
     display: flex;
@@ -196,6 +197,7 @@ section#fotos1 {
     width: 217px;
 }
 
+/* sessao fotos2 */
 
 section#fotos2 {
     display: flex;
@@ -293,6 +295,7 @@ section#fotos2 {
     margin-top: -10px;
 }
 
+/* sessao2 */
 
 section#sec2 {
     background-color: #fff;
@@ -362,6 +365,7 @@ section#sec2 .area2 .vid h1 {
     width: 460px;
 }
 
+/* sessao3 */
 
 section#sessao3 {
     width: 100%;
@@ -384,6 +388,7 @@ section#sessao3 h1 {
 
 }
 
+/* sessao 4 */
 
 section#sessao4 {
     background-color: #fff;
@@ -401,7 +406,7 @@ section#sessao4 .card {
 
 section#sessao4 .card .angela h1 {
     margin: 0;
-    background-image: url(../autumn-goodman-242825.png);
+    background-image: url(../imgs/autumn-goodman-242825.png);
     background-repeat: no-repeat;
     width: 794px;
     height: 386px;
@@ -439,6 +444,7 @@ section#sessao4 .card .tex .plus {
 
 }
 
+/* icons */
 
 .icons {
     margin-top: 65px;
@@ -511,6 +517,8 @@ section#sessao4 .card .tex .plus {
   
 }
 
+/* sessao5 */
+
 section#sessao5 {
     height: 400px;
     width: 100%;
@@ -575,6 +583,8 @@ section#sessao5 .select button {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+/* sessao6 */
+
 sectuib#sessao6 {
     width: 100%;
     height: 420px;
@@ -635,6 +645,7 @@ section#sessao6 .card .colunas a {
 
 }
 
+/* footer */
 
 footer {
     width: 1200px;
@@ -677,6 +688,7 @@ footer ul li:last-child {
     padding-right: 0;
 }
 
+/* mobile */
 
 @media only screen and (max-width: 400px) {
     
